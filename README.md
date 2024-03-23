@@ -6,7 +6,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la cré
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=github-readme-stats)](https://github.com/souleymanetimbidiallo/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&soodou-shop)]([https://github.com/souleymane/github-readme-stats](https://github.com/souleymanetimbidiallo/soodou-shop))
 
 ## À propos de moi
 
