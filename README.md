@@ -1,6 +1,6 @@
 # Hello, I'm Souleymane Diallo 👋
 
-Welcome to my GitHub profile! I am a developer passionate about creating innovative technological solutions. Explore my work and projects here, and do not hesitate to visit my personal website to learn more about me and my journey: [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
+Welcome to my profile :! I am a developer 💻 passionate about creating innovative technological solutions :. Explore my work and projects here, and do not hesitate to visit my personal website to learn more about me and my journey: [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
 
 ![Souleymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=transparent&include_all_commits=true)
 
