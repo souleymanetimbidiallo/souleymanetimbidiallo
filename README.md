@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la cré
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=radical)
 
 
 ## À propos de moi
