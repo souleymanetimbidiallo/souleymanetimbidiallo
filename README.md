@@ -4,7 +4,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la cré
 
 ![Souleymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=github-readme-stats)](https://github.com/souleymanetimbidiallo/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&soodou-shop)](https://github.com/souleymanetimbidiallo/soodou-shop)
 
