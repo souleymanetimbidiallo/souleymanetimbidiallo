@@ -3,18 +3,8 @@
 Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la création de solutions technologiques innovantes. Découvrez mon travail et mes projets ici, et n'hésitez pas à visiter mon site personnel pour en savoir plus sur moi et mon parcours : [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
 
 ![Souleymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=transparent)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=github-readme-stats)](https://github.com/souleymanetimbidiallo/github-readme-stats)
 
 ## À propos de moi
 
