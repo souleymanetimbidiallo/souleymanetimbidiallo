@@ -1,6 +1,6 @@
 # Hello, I'm Souleymane Diallo 👋
 
-Welcome to my profile :! I am a developer 💻 passionate about creating innovative technological solutions :. Explore my work and projects here, and do not hesitate to visit my personal website to learn more about me and my journey: [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
+Welcome to my profile :man_technologist: :! I am a developer 💻 passionate about creating innovative technological solutions :. Explore my work and projects here, and do not hesitate to visit my personal website to learn more about me and my journey: [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
 
 ![Souleymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=transparent&include_all_commits=true)
 
@@ -21,10 +21,6 @@ Here are some projects I've worked on. They represent my commitment to learning 
 
 ### Examples
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)-->
-
 
 
 ## Skills
