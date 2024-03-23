@@ -1,58 +1,40 @@
-# Bonjour, je suis Souleymane Diallo 👋
+# Hello, I'm Souleymane Diallo 👋
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la création de solutions technologiques innovantes. Découvrez mon travail et mes projets ici, et n'hésitez pas à visiter mon site personnel pour en savoir plus sur moi et mon parcours : [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
+Welcome to my GitHub profile! I am a developer passionate about creating innovative technological solutions. Explore my work and projects here, and do not hesitate to visit my personal website to learn more about me and my journey: [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
 
 ![Souleymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=transparent)
 
+## 💬 Ask me about
 
-## À propos de moi
+I specialize in backend development, mobile application development, and artificial intelligence, with a strong inclination towards the web. I love turning complex ideas into elegant and functional designs. My personal website is a showcase of my skills and achievements.
 
-Je suis spécialisé dans le développement backend, le développement d'applications mobiles et l'intelligence artificielle, avec une forte inclination pour le web. J'aime transformer des idées complexes en designs élégants et fonctionnels. Mon site web personnel est une vitrine de mes compétences et réalisations.
+## My Projects
 
-## Mes Projets
+Here are some projects I've worked on. They represent my commitment to learning and innovating in the field of web development.
 
-Voici quelques projets sur lesquels j'ai travaillé. Ils représentent mon engagement à apprendre et à innover dans le domaine du développement web.
-
-### Soodou-Shop : 
+### Soodou-Shop: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=soodou-shop)](https://github.com/souleymanetimbidiallo/soodou-shop)
-### Doudhal : 
+### Doudhal: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal)](https://github.com/souleymanetimbidiallo/doudhal)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo)](https://github.com/anuraghazra/github-readme-stats)
 
-## Compétences
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
-- **Langages de programmation** : HTML, CSS, JavaScript, Python
-- **Frameworks et bibliothèques** : React, Node.js, Express.js
-- **Outils** : Git, Docker, Jenkins
+## Skills
 
-## Contactez-moi
+- **Programming Languages**: HTML, CSS, JavaScript, Python
+- **Frameworks and Libraries**: React, Node.js, Express.js
+- **Tools**: Git, Docker, Jenkins
 
-Je suis toujours ouvert à discuter de nouvelles opportunités ou simplement d'échanger sur des sujets technologiques. Voici comment vous pouvez me joindre :
+## Contact Me
 
-- **Email** : [votre_email@example.com](mailto:votre_email@example.com)
-- **LinkedIn** : [VotreNomLinkedIn](https://www.linkedin.com/in/VotreNomLinkedIn/)
-- **GitHub** : [@souleymanetimbidiallo](https://github.com/souleymanetimbidiallo)
+I'm always open to discussing new opportunities or simply exchanging ideas on technological topics. Here's how you can reach me:
 
-Merci de votre visite !
+- **Email**: [souleymanetimbidiallo@example.com](mailto:souleymanetimbidiallo@gmail.com)
+- **LinkedIn**: [souleymanetimbidiallo](https://www.linkedin.com/in/souleymanetimbidiallo/)
+- **GitHub**: [@souleymanetimbidiallo](https://github.com/souleymanetimbidiallo)
 
-## Contact me
-Find me over on the [GitHub Blog](https://github.blog/) or on the [GitHub Community Discussions](https://github.com/orgs/community/discussions)
-
-
-<!--
-**souleymanetimbidiallo/souleymanetimbidiallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting!
