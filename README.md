@@ -13,11 +13,9 @@ Je suis spécialisé dans le développement backend, le développement d'applica
 
 Voici quelques projets sur lesquels j'ai travaillé. Ils représentent mon engagement à apprendre et à innover dans le domaine du développement web.
 
-### Soodou-Shop** : 
-Une application web qui permet aux utilisateurs de...
+### Soodou-Shop : 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=soodou-shop)](https://github.com/souleymanetimbidiallo/soodou-shop)
-### Doudhal** : 
-Un site e-learning développé en ...
+### Doudhal : 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal)](https://github.com/souleymanetimbidiallo/doudhal)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
