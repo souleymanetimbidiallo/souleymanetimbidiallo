@@ -16,6 +16,7 @@ Je suis spécialisé dans le développement backend, le développement d'applica
 Voici quelques projets sur lesquels j'ai travaillé. Ils représentent mon engagement à apprendre et à innover dans le domaine du développement web.
 
 - **Projet A** : Une application web qui permet aux utilisateurs de...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=soodou-shop)](https://github.com/souleymanetimbidiallo/soodou-shop)
 - **Projet B** : Un site e-commerce développé avec React et Node.js, qui offre...
 
 ## Compétences
