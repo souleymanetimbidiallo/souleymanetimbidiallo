@@ -6,9 +6,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la cré
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 ## À propos de moi
 
 Je suis spécialisé dans le développement backend, le développement d'applications mobiles et l'intelligence artificielle, avec une forte inclination pour le web. J'aime transformer des idées complexes en designs élégants et fonctionnels. Mon site web personnel est une vitrine de mes compétences et réalisations.
