@@ -28,7 +28,7 @@ Here are some projects I've worked on. They represent my commitment to learning 
 - **Programming Languages**: HTML, CSS, JavaScript, Python
 - **Frameworks and Libraries**: React, Node.js, Express.js
 - **Tools**: Git, Docker, Jenkins
-
+___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&langs_count=8&hide_progress=true)
 
 ## Contact Me
