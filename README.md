@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a developer passionate about creating innovative technological solutions. Explore my work and projects here, and do not hesitate to visit my personal website to learn more about me and my journey: [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
 
-![Souleymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=transparent)
+![Souleymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=transparent&rank_icon=https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 ## 💬 Ask me about
 
