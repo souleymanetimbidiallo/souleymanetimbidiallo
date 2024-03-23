@@ -21,9 +21,11 @@ Here are some projects I've worked on. They represent my commitment to learning 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## Skills
 
