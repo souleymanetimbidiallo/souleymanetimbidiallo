@@ -6,6 +6,8 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la cré
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=github-readme-stats)](https://github.com/souleymanetimbidiallo/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ## À propos de moi
 
 Je suis spécialisé dans le développement backend, le développement d'applications mobiles et l'intelligence artificielle, avec une forte inclination pour le web. J'aime transformer des idées complexes en designs élégants et fonctionnels. Mon site web personnel est une vitrine de mes compétences et réalisations.
