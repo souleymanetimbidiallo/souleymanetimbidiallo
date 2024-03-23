@@ -2,11 +2,16 @@
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la création de solutions technologiques innovantes. Découvrez mon travail et mes projets ici, et n'hésitez pas à visiter mon site personnel pour en savoir plus sur moi et mon parcours : [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo)](https://github.com/souleymanetimbidiallo/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&hide=contribs,prs)
+
 
 ## À propos de moi
 
-Je suis spécialisé dans le développement web et mobile, avec une forte inclination pour le backend. J'aime transformer des idées complexes en designs élégants et fonctionnels. Mon site web personnel est une vitrine de mes compétences et réalisations.
+Je suis spécialisé dans le développement backend, le développement d'applications mobiles et l'intelligence artificielle, avec une forte inclination pour le web. J'aime transformer des idées complexes en designs élégants et fonctionnels. Mon site web personnel est une vitrine de mes compétences et réalisations.
 
 ## Mes Projets
 
