@@ -12,22 +12,28 @@ I specialize in backend development, mobile application development, and artific
 
 Here are some projects I've worked on. They represent my commitment to learning and innovating in the field of web development.
 
-### Soodou-Shop: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=soodou-shop)](https://github.com/souleymanetimbidiallo/soodou-shop)
-### Doudhal: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal)](https://github.com/souleymanetimbidiallo/doudhal)
+<a href="https://github.com/souleymanetimbidiallo/soodou-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=soodou-shop" />
+</a>
+<a href="https://github.com/souleymanetimbidiallo/doudhal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
+</a>
 
+### Examples
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&langs_count=8&hide_progress=true)
+
 
 ## Skills
 
 - **Programming Languages**: HTML, CSS, JavaScript, Python
 - **Frameworks and Libraries**: React, Node.js, Express.js
 - **Tools**: Git, Docker, Jenkins
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&langs_count=8&hide_progress=true)
 
 ## Contact Me
 
