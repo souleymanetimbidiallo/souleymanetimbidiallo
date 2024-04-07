@@ -19,11 +19,11 @@ Here are some projects I've worked on. They represent my commitment to learning 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
 </a>
 <br>
-<a href="https://github.com/souleymanetimbidiallo/doudhal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
+<a href="https://github.com/souleymanetimbidiallo/examens-gn-2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=examens-gn-2023" />
 </a>
-<a href="https://github.com/souleymanetimbidiallo/doudhal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
+<a href="https://github.com/souleymanetimbidiallo/ag35_website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=ag35_website" />
 </a>
 
 ### Examples
