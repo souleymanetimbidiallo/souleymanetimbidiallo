@@ -18,6 +18,12 @@ Here are some projects I've worked on. They represent my commitment to learning 
 <a href="https://github.com/souleymanetimbidiallo/doudhal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
 </a>
+<a href="https://github.com/souleymanetimbidiallo/doudhal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
+</a>
+<a href="https://github.com/souleymanetimbidiallo/doudhal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
+</a>
 
 ### Examples
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
