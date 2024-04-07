@@ -18,7 +18,7 @@ Here are some projects I've worked on. They represent my commitment to learning 
 <a href="https://github.com/souleymanetimbidiallo/doudhal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
 </a>
-
+<br>
 <a href="https://github.com/souleymanetimbidiallo/doudhal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
 </a>
