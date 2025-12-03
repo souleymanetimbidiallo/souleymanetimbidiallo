@@ -1,48 +1,117 @@
-# Hello, I'm Souleymane Diallo 👋
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <strong>Souleymane Diallo</strong></h1>
+<h3 align="center">Full-Stack Software Engineer | Java • Spring Boot • Angular</h3>
+<p align="center">
+  Based in Columbus, Ohio — US Permanent Resident (Green Card)  
+</p>
 
-Welcome to my profile :man_technologist: :! I am a developer 💻 passionate about creating innovative technological solutions :. Explore my work and projects here, and do not hesitate to visit my personal website to learn more about me and my journey: [souleymanetimbidiallo.github.io](https://souleymanetimbidiallo.github.io/).
+<p align="center">
+  <a href="https://www.linkedin.com/in/souleymanetimbidiallo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:souleymanetimbidiallo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/souleymanetimbidiallo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://souleymanetimbidiallo.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
+---
 
-## 💬 Ask me about
+## 👨‍💻 **About Me**
 
-I specialize in backend development, mobile application development, and artificial intelligence, with a strong inclination towards the web. I love turning complex ideas into elegant and functional designs. My personal website is a showcase of my skills and achievements.
+I’m a **Full-Stack Software Engineer** with strong expertise in:
 
-## My Projects
+- **Java, Spring Boot, REST APIs, Microservices**
+- **Angular, TypeScript**
+- **Cloud-ready backend architectures**
+- **CI/CD, DevOps culture, clean engineering**
 
-Here are some projects I've worked on. They represent my commitment to learning and innovating in the field of web development.
+Originally from Guinea 🇬🇳, trained in France 🇫🇷, now based in the USA 🇺🇸.  
+I build **scalable systems**, **intuitive web apps**, and **impactful digital products**.
 
+---
+
+## 🧰 **Tech Stack**
+
+### 🔹 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,python,django,php,laravel,symfony,nodejs,express" />
+</p>
+
+### 🔹 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+</p>
+
+### 🔹 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,aws" />
+</p>
+
+---
+
+## 💼 **Professional Experience**
+
+### **Software Engineer — Inetum (France)**  
+📅 *2023 – Present* | 🌍 Rennes, France  
+- Full-stack development with **Java/Spring Boot + Angular**  
+- Built high-performance features for **ANTAI**, a national platform for road-violation management  
+- Improved API reliability, scalability, and code quality  
+- Collaboration in Agile teams + CI/CD environments  
+
+### **Software Engineer Apprentice — Capgemini**  
+📅 *2021 – 2023* | Nantes, France  
+- Backend (Symfony, Drupal, Spring, Node) & frontend (Angular, TypeScript) delivery  
+- Worked on large French public & private sector apps  
+- Feature development, bug fixing, and Agile sprint execution  
+
+### **Software Engineer — Pellel Consulting**  
+📅 *2020* | Rennes, France  
+- Built a video-conferencing platform using **Django + MySQL**  
+- End-to-end development: backend, frontend, and database  
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🌍 **GoTraject — Public Transport Route Finder (Flutter)**
+A mobile app helping users navigate Guinean public transportation (multi-segment routing, costs, stops).
+
+### 🧠 **IsticGPT — AI-Powered Learning Platform (Spring Boot + Angular)**
+E-learning platform with integrated GPT-based assistant.
+
+### 🗂️ **Citoy-Kaidi — Admin Document Management (Spring/Angular)**
+Complete document workflow system for government organizations.
+
+### 🗺️ **Guinea-Geo API — Geospatial REST API (Node + MongoDB)**
+Provides geographic data for developers and apps in Guinea.
+
+---
+
+## 📌 **Pinned Projects**
+<p align="left">
 <a href="https://github.com/souleymanetimbidiallo/soodou-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=soodou-shop" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=soodou-shop&theme=default"/>
 </a>
 <a href="https://github.com/souleymanetimbidiallo/doudhal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal&theme=default"/>
 </a>
+</p>
 
-<a href="https://github.com/souleymanetimbidiallo/examens-gn-2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=examens-gn-2023" />
-</a>
-<a href="https://github.com/souleymanetimbidiallo/ag35_website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=ag35_website" />
-</a>
+---
 
-### Examples
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&layout=compact&langs_count=10"/>
+</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Skills
+## 🤝 **Let’s Connect**
+I’m open to **full-time roles**, **collaborations**, and **impact-driven projects** in the USA.
 
-- **Programming Languages**: HTML, CSS, JavaScript, Python
-- **Frameworks and Libraries**: React, Node.js, Express.js
-- **Tools**: Git, Docker, Jenkins
-___
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&langs_count=8&hide_progress=true)
+📧 **Email:** souleymanetimbidiallo@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/souleymanetimbidiallo  
+🔗 **Portfolio:** souleymanetimbidiallo.github.io  
 
-## Contact Me
+---
 
-I'm always open to discussing new opportunities or simply exchanging ideas on technological topics. Here's how you can reach me:
-
-- **Email**: [souleymanetimbidiallo@example.com](mailto:souleymanetimbidiallo@gmail.com)
-- **LinkedIn**: [souleymanetimbidiallo](https://www.linkedin.com/in/souleymanetimbidiallo/)
-- **GitHub**: [@souleymanetimbidiallo](https://github.com/souleymanetimbidiallo)
-
-Thank you for visiting!
+<p align="center"><strong>Thanks for stopping by! 🚀</strong></p>
