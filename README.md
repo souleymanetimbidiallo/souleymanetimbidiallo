@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-USA%20Only-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/souleymanetimbidiallo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:souleymanetimbidiallo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/souleymanetimbidiallo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -32,17 +36,21 @@ I build **scalable systems**, **intuitive web apps**, and **impactful digital pr
 
 ### 🔹 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,python,django,php,laravel,symfony,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,python,django,php,laravel,symfony,nodejs,express,html,css,js,sass,bootstrap,dart,flutter" />
 </p>
 
 ### 🔹 Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
 
 ### 🔹 DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,jenkins,aws,ansible" />
 </p>
 
 ---
@@ -86,11 +94,12 @@ Provides geographic data for developers and apps in Guinea.
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&layout=compact&langs_count=10"/>
-</p>
+## 📊 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Souleymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souleymanetimbidiallo&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&layout=compact&langs_count=8)
+
 ---
 
 ## 🤝 **Let’s Connect**
