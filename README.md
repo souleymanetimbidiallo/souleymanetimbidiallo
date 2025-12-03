@@ -85,18 +85,6 @@ Provides geographic data for developers and apps in Guinea.
 
 ---
 
-## 📌 **Pinned Projects**
-<p align="left">
-<a href="https://github.com/souleymanetimbidiallo/soodou-shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=soodou-shop&theme=default"/>
-</a>
-<a href="https://github.com/souleymanetimbidiallo/doudhal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=souleymanetimbidiallo&repo=doudhal&theme=default"/>
-</a>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souleymanetimbidiallo&layout=compact&langs_count=10"/>
